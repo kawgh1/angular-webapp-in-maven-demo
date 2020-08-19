@@ -2,6 +2,8 @@
 
 This maven project contains a basic angular front end inside a basic spring boot app. Currently both work independently but they are not connected.
 
+Most of the default Angular files have been changed and moved to work in Maven with Spring.
+
 https://dreamix.eu/blog/frontpage/how-to-setup-a-project-with-angular-7-and-spring-boot-that-provides-custom-embeddable-angular-components-via-angular-elements
 
 
