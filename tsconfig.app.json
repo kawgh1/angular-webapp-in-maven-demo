@@ -6,16 +6,16 @@
     "types": []
   },
   "exclude": [
-    "src/main/webapp/test.ts",
-    "src/main/webapp/e2e/src/*.spec.ts",
-    "src/main/webapp/**/*.spec.ts",
-
+    "src/main/webapp1/test.ts",
+    "src/main/webapp1/e2e/src/*.spec.ts",
+    "src/main/webapp1/**/*.spec.ts"
   ],
   "include": [
     "blank.ts",
-    "src/main/webapp/main.ts",
-    "src/main/webapp/polyfills.ts",
-    "src/main/webapp/app"]
+    "src/main/webapp1/main.ts",
+    "src/main/webapp1/polyfills.ts",
+    "src/main/webapp1/app"
+  ]
 }
 
 

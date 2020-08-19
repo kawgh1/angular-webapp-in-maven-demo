@@ -9,11 +9,11 @@
     ]
   },
   "files": [
-    "src/main/webapp/test.ts",
-    "src/main/webapp/polyfills.ts"
+    "src/main/webapp1/test.ts",
+    "src/main/webapp1/polyfills.ts"
   ],
   "include": [
-    "src/main/webapp/**/*.spec.ts",
-    "src/main/webapp/**/*.d.ts"
+    "src/main/webapp1/**/*.spec.ts",
+    "src/main/webapp1/**/*.d.ts"
   ]
 }

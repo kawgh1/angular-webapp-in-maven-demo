@@ -28,9 +28,9 @@
     ]
   },
   "include": [
-    "src/main/webapp/main.ts",
-    "src/main/webapp/polyfills.ts",
-    "src/main/webapp/app"
+    "src/main/webapp1/main.ts",
+    "src/main/webapp1/polyfills.ts",
+    "src/main/webapp1/app"
   ],
   "exclude": [
     "node_modules"
